@@ -10,7 +10,10 @@ Input your Open AI API Key in the sidebar, API Key is not stored by the app.
 Models Available:
 
 GPT-3.5-Turbo
+
 code-davinci-002
+
 text-davinci-002
+
 text-davinci-003
 
